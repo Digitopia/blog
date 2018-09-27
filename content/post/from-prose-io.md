@@ -1,5 +1,5 @@
 +++
-title = "Como criar um site simples gratuitamente"
+title = "New post"
 description = ""
 tags = [
     "development",
