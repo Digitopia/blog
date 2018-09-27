@@ -1,0 +1,62 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+# SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Digitópia"
+  subtitle    = "blog where stuff happens"
+  copyright   = "© 2018"
+
+  cover       = ""
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  # twitter = "faketryghost"
+  facebook = "DigitopiaCasaDaMusica"
+  github = "Digitopia"
+  linkedin = ""
+
+  logo = ""
+  orgName = "Digitopia"
+  orgWebsite = "https://digitopia.casadamusica.com"
+  orgDescription = ""
+
+  showSupport = true
+
+  author = "Digitopia"
+  authorAvatar = "img/profile/digitopia.png"
+  authorLocation = "Porto, Portugal"
+  authorWebsite = "https://digitopia.casadamusica.com"
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+  # post = "/post/:slug/"
+  # post = "/:year/:month/:title/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "Workshops"
+  url = "/tags/workshops/"
+  weight = 100
