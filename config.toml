@@ -1,4 +1,4 @@
-baseurl         = "digitopia.github.io/blog"
+baseurl         = "//digitopia.casadamusica.com/blog"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
