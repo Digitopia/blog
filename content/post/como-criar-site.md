@@ -1,5 +1,7 @@
 +++
 title = "Workshop Web Audio"
+author = "Nuno Hespanhol"
+authorAvatar = "img/profile/nuno.hespanhol.jpg"
 description = ""
 tags = [
     "development",
