@@ -1,18 +1,16 @@
 ---
-
-title: Como criar um pequeno site de maneira rápida e simples
-author: "Nuno Hespanhol"
-date: 2018-09-27
-
-description: "Esta é uma pequena descrição que aparece na página principal a sumaria o texto. E que não aparece na página de detalhe."
-
+title: Formação Ableton Live
+author: Nuno Hespanhol
+date: {}
+description: >-
+  Esta é uma pequena descrição que aparece na página principal a sumaria o
+  texto. E que não aparece na página de detalhe.
 nomenu:
   main:
     parent: tutorials
-
 image: img/welcome.jpg
 authorAvatar: img/profile/nuno.hespanhol.jpg
-
+published: true
 ---
 
 ## Introduction
