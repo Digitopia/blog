@@ -1,5 +1,5 @@
 +++
-title = "Como criar um site simples gratuitamente"
+title = "Workshop Web Audio"
 description = ""
 tags = [
     "development",
