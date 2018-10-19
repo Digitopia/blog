@@ -26,14 +26,14 @@ title = "Digitópia Blog"
   linkedin = ""
 
   logo = ""
-  orgName = "Digitopia"
+  orgName = "Digitópia"
   orgWebsite = "https://digitopia.casadamusica.com"
   orgDescription = ""
 
   showSupport = true
 
-  author = "Digitopia"
-  authorAvatar = "img/profile/digitopia.png"
+  author = "Digitópia"
+  authorAvatar = "img/ghost-icon.png"
   authorLocation = "Porto, Portugal"
   authorWebsite = "https://digitopia.casadamusica.com"
   authorDescription = ""
