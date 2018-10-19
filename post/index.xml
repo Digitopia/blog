@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Digitópia Blog</title>
+    <link>//digitopia.casadamusica.com/blog/post/</link>
+    <description>Recent content in Posts on Digitópia Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//digitopia.casadamusica.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>//digitopia.casadamusica.com/blog/hello-world/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/hello-world/</guid>
+      <description>Ilia si matura et hunc Neque ius ulla Lorem markdownum tepente. Tam colla Tritonia, risus suae caerula toto odoratas, suo arent. Hic trahit deducit Cepheaque antris tandem!
+ Liventia vero animam Caencu raptas exilio morbo coronas, ille est erant trementi amplexus facinusque vide feriendus conde quaesitamque. Una aura Alcyone meo quanto nubibus mentior teneo non, concipiunt hac. Mihi hominis. Suos veniente Pyrrham, velle iuvenilior quid aera genitor sed profuit vasti terra novas; pars anni potitur virgo, ternis.</description>
+    </item>
+    
+    <item>
+      <title>New post</title>
+      <link>//digitopia.casadamusica.com/blog/new-post/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/new-post/</guid>
+      <description>Awesome new post This is an awesome new post from prose.io</description>
+    </item>
+    
+    <item>
+      <title>Workshop Web Audio</title>
+      <link>//digitopia.casadamusica.com/blog/workshop-web-audio/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/workshop-web-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formação Ableton Live</title>
+      <link>//digitopia.casadamusica.com/blog/forma%C3%A7%C3%A3o-ableton-live/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/forma%C3%A7%C3%A3o-ableton-live/</guid>
+      <description>Introduction In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.
+Here&amp;rsquo;s an example:
+## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.</description>
+    </item>
+    
+  </channel>
+</rss>

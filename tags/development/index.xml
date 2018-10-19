@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Digitópia Blog</title>
+    <link>//digitopia.casadamusica.com/blog/tags/development/</link>
+    <description>Recent content in Development on Digitópia Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//digitopia.casadamusica.com/blog/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New post</title>
+      <link>//digitopia.casadamusica.com/blog/new-post/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/new-post/</guid>
+      <description>Awesome new post This is an awesome new post from prose.io</description>
+    </item>
+    
+    <item>
+      <title>Workshop Web Audio</title>
+      <link>//digitopia.casadamusica.com/blog/workshop-web-audio/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/workshop-web-audio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

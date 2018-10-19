@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Digitópia Blog</title>
+    <link>//digitopia.casadamusica.com/blog/tags/</link>
+    <description>Recent content in Tags on Digitópia Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//digitopia.casadamusica.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>//digitopia.casadamusica.com/blog/tags/development/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>//digitopia.casadamusica.com/blog/tags/workshops/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//digitopia.casadamusica.com/blog/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
